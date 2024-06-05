@@ -1,4 +1,4 @@
-Retrieve a list of Minecraft usernames based on their UUIDs as found in the server whitelist in the Discord Integration plugin by ErdbeerbaerLP - https://github.com/ErdbeerbaerLP/DiscordIntegration-Core.
+Retrieve a list of Minecraft usernames based on their UUIDs as found in the server whitelist of the Discord Integration plugin by ErdbeerbaerLP - https://github.com/ErdbeerbaerLP/DiscordIntegration-Core.
 
 How to run:
 1. Download and install Node.js: https://nodejs.org/en
